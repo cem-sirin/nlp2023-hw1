@@ -1,0 +1,7 @@
+2023-05-06T20:57:06.652721196Z Embeds loaded
+2023-05-06T20:57:06.705327107Z Model loaded
+2023-05-06T20:57:06.705344962Z  * Serving Flask app 'app' (lazy loading)
+2023-05-06T20:57:06.705351330Z  * Environment: production
+2023-05-06T20:57:06.705356202Z    WARNING: This is a development server. Do not use it in a production deployment.
+2023-05-06T20:57:06.705360650Z    Use a production WSGI server instead.
+2023-05-06T20:57:06.705365217Z  * Debug mode: off

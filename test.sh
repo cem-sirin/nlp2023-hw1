@@ -25,6 +25,7 @@ docker build . -f Dockerfile -t nlp2023-hw1
 docker run -d -p 12345:12345 --name nlp2023-hw1 nlp2023-hw1
 
 # perform evaluation
+# python hw1/evaluate.py "data/test.jsonl"
 /usr/bin/env python hw1/evaluate.py "$test_path"
 
 # stop container
